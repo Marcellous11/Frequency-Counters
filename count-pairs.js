@@ -24,7 +24,6 @@ function countPairs(array, target) {
 		} else {
 			second++;
 		}
-		second++;
 	}
 	return pairCount;
 }
